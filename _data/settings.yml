@@ -7,7 +7,7 @@ disqus:
 google-ID: 'UA-112060364-2'
 
 menu:
-- {name: 'Monsatket', folder: 'pages', file: 'documentation.html'}
+- {name: 'Monsatker', folder: 'pages', file: 'monsatker.html'}
 - {name: 'About', folder: 'pages', file: 'about.html'}
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
